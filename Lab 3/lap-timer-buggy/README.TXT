@@ -1,12 +1,8 @@
+Project "lap-timer-buggy}
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This project contains a Lap Timer Java program that simulates a stopwatch for recording lap times. However, this version contains intentional bugs and errors. The goal is to identify and fix these issues to ensure the program matches the correct output.
 ------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Objectives
+- Identify and troubleshoot bugs in the code
+- Debug logic, syntax, and runtime errors
+- Ensure the timer functions accurately based on the provided output     specifications
