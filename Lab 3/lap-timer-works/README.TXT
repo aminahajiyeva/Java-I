@@ -1,12 +1,10 @@
+Project "lap-timer-works"
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the corrected version of the Lap Timer Java program. It accurately simulates a stopwatch for recording lap times, with all identified bugs resolved. The program now functions as intended, producing the correct output.
+Author: Amina Hajiyeva
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Features
+- Start, stop, and reset the timer
+- Record and display lap times
+- Ensure accurate timekeeping and output formatting
