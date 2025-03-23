@@ -1,3 +1,4 @@
+Project "Lab 2"
 ------------------------------------------------------------------------
 This project contains a Java implementation of a Heater class and a corresponding HeaterTest class. The Heater simulates a simple heating system with adjustable temperature settings. The test class verifies its functionality using unit tests.
 Author: Amina Hajiyeva
