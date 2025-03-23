@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This project contains a Java implementation of a Heater class and a corresponding HeaterTest class. The Heater simulates a simple heating system with adjustable temperature settings. The test class verifies its functionality using unit tests.
+Author: Amina Hajiyeva
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Features
+- Adjust the temperature using increment and decrement methods
+- Set a specific temperature range and increment value
+- Ensure proper validation and error handling
