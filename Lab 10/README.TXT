@@ -5,11 +5,7 @@ Author: Amina Hajiyeva
 ------------------------------------------------------------------------
 
 Features
-
 - Two-player mode
-
 - 3x3 game board
-
 - Win and draw detection
-
 - User-friendly console interface
