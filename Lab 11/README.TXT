@@ -1,12 +1,13 @@
+Project "Counter GUI"
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is a simple Counter application implemented in Java with a graphical user interface (GUI). Users can increment, decrement, reset, generate a random value within a specified range, and clear the counter history. It also features a menu with options to reset, quit, or clear the history.
+Author: Amina Hajiyeva
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Features
+- Increment and decrement the counter using buttons.
+- Reset the counter to a specified value.
+- Generate a random number within a defined range.
+- View a scrollable history of all counter values.
+- Clear the history log.
+- Use menu options to reset, quit, or clear history.
