@@ -1,12 +1,9 @@
+Project "Lab 12 - JUnite Testing"
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This lab focuses on writing Java test classes and utilizing the JUnit testing framework.
+Author: Amina Hajiyeva
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+- Organizing Java classes into appropriate packages
+- Writing JUnit test classes for various components of a Monopoly game
+- Validating methods and ensuring program correctness through automated tests
