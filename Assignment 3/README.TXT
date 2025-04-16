@@ -5,7 +5,11 @@ Author: Amina Hajiyeva
 ------------------------------------------------------------------------
 
 Features
-- Two-player mode
-- 3x3 game board
-- Win and draw detection
 - User-friendly console interface
+- Two-player mode (X and O)
+- 3x3 game board usinf JButtons
+- Buttons show the mark and disable after being clicked
+- Status label shows the current state (X’s turn, O’s turn, win, tie)
+- “Game” menu with:
+  - **New** to restart the game
+  - **Quit** to exit the game
