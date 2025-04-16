@@ -1,12 +1,11 @@
+Project "tic-tac-toe V2"
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is a simple Tic Tac Toe game implemented in Java. The game can be played between two players, taking turns on a 3x3 grid until one player wins or the game results in a draw.
+Author: Amina Hajiyeva
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Features
+- Two-player mode
+- 3x3 game board
+- Win and draw detection
+- User-friendly console interface
